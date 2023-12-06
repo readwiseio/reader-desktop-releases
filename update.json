@@ -1,23 +1,11 @@
 {
-  "version": "v1.0.0",
+  "version": "v0.1.1",
   "notes": "Test version",
-  "pub_date": "2020-06-22T19:25:57Z",
+  "pub_date": "2023-12-06T01:42:30+00:00",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x86_64.app.tar.gz"
-    },
     "darwin-aarch64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
-    },
-    "linux-x86_64": {
-      "signature": "Content of app.AppImage.tar.gz.sig",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdDd4Ukw4YUhFb1dHckFoa2o5ZjF5c09YdWRXTCtWRmJ0a2JsSjZGcmF4TXdNQi9pb3V5Qksva285VW95c0NiakFvYlpqRjR4enZwOVFOZTdaRnV2VVRwQWdXS2QySndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxODM2NTE2CWZpbGU6UmVhZHdpc2UgUmVhZGVyLmFwcC50YXIuZ3oKVWlrVm5wQWswRUdZNkpTTTltbVRvNDNtSHl0b3hYdGRTbDl5RDNQMmM4R1pGdG9DeDZjS0JKSGNwVk94MFVZaW1DRFMvUTVLRHcwZUdtNEpBb2s4Qmc9PQo=",
+      "url": "https://github.com/readwiseio/reader-desktop-releases/releases/download/test/Readwise.Reader.app.tar.gz"
     }
   }
 }
